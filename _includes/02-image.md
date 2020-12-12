@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Filósofa Graciela Hierro](https://gracielahierro.files.wordpress.com/2019/01/cropped-1530927747494.jpg)
